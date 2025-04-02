@@ -3,16 +3,10 @@
 
 ## Releases
 
-<table>
-    <tr>
-        <td>Classical
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead.dmg">Mac</a>
-        </td>
+Apple Classical
+<a href="https://github.com/vinchibana/Classical/releases/download/v1.0/Classical.dmg">Mac</a>
 
-        <td>
-            <img src=https://raw.githubusercontent.com/tw93/static/main/pake/YouTubeMusic.png width=600 />
-            </td>
-</table>
+![Classical.jpg](https://s2.loli.net/2025/04/03/SngYWwtTG7D2x6z.jpg)
 <br/>
 
 ## Command-Line Packaging
